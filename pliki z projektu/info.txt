@@ -1,0 +1,11 @@
+Remake Space Invaders
+Grafika tworzona w Adobe Illustrator.
+Efekty dźwiękowe stworzone w Bfxr. 
+Muzyka pobrana ze strony epidemicsound.com
+Ranking w grze zapisywany do pliku ourDatas.txt
+
+Space Invaders Remake
+Graphics created in Adobe Illustrator.
+Sound effects created in Bfxr.
+Music downloaded from epidemicsound.com
+Game ranking saved to ourDatas.txt file
